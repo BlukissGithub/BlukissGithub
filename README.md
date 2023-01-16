@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Android Developers Blog: Android Developer Challenge: helpful innovation,  powered by On-Device Machine Learning + you!" data-noaft="1" style="width: 482px; height: 144.6px; margin: 45.3px 0px;">
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Android Developers Blog: Android Developer Challenge: helpful innovation,  powered by On-Device Machine Learning + you!" data-noaft="1" style="width: 482px; height: 144.6px; margin: 45.3px 0px; width: 100%">
 <h1 align="center">Hi 👋, I'm John Rico Tresvalles</h1>
 <h3 align="center">A passionate Web developer from Philippines</h3>
 
