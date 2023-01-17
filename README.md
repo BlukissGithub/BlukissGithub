@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm John Rico Tresvalles</h1>
 <h3 align="center">A passionate Web developer from Philippines</h3>
 
-style="width: 482px; height: 144.6px; margin: 45.3px 0px; width: 100%"
 ##  👩About Me
 
 
