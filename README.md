@@ -23,16 +23,12 @@ style="width: 482px; height: 144.6px; margin: 45.3px 0px; width: 100%"
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/JohnTresvallesGithub/github-readme-stats"><img alt="JohnTresvallesGithub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnTresvallesGithub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/JohnTresvallesGithub/github-readme-stats"><img alt="crischoy23's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnTresvallesGithub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
-
+<a><img alt="BlukissGithub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BlukissGithub&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&text_color=3CDB76&icon_color=CDCDCD" /></a>
+    <a><img alt="BlukissGithub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlukissGithub&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&text_color=3CDB76" /></a>
+ 
+<b>Note:</b>This languages is only a metric that my public code consists of. Also, this doesn't reflect experience or skill level.
 <br/>
 <br/>
 
@@ -46,7 +42,7 @@ style="width: 482px; height: 144.6px; margin: 45.3px 0px; width: 100%"
 
 ## ❤ Views and Followers
 
-<a href="[https://github.com/JohnTresvallesGithub/github-profile-views-counter](https://github.com/BlukissGithub)">
+<a href="[https://github.com/BlukissGithub/github-profile-views-counter](https://github.com/BlukissGithub)">
     <img src="https://komarev.com/ghpvc/?username=BlukissGithub">
 </a>
 <a href="https://github.com/BlukissGithub?tab=followers"><img src="https://img.shields.io/github/followers/BlukissGithub?label=Followers&style=social" alt="GitHub Badge"></a>
