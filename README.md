@@ -57,8 +57,9 @@ style="width: 482px; height: 144.6px; margin: 45.3px 0px; width: 100%"
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/JohnTresvallesGithub/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=JohnTresvallesGithub">
+
+<a href="[https://github.com/JohnTresvallesGithub/github-profile-views-counter](https://github.com/BlukissGithub)">
+    <img src="https://komarev.com/ghpvc/?username=BlukissGithub">
 </a>
-<a href="https://github.com/JohnTresvallesGithub?tab=followers"><img src="https://img.shields.io/github/followers/JohnTresvallesGithub?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/BlukissGithub?tab=followers"><img src="https://img.shields.io/github/followers/BlukissGithub?label=Followers&style=social" alt="GitHub Badge"></a>
 
