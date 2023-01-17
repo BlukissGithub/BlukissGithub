@@ -1,8 +1,10 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Android Developers Blog: Android Developer Challenge: helpful innovation,  powered by On-Device Machine Learning + you!" data-noaft="1" style="width: 482px; height: 144.6px; margin: 45.3px 0px; width: 100%">
+![Blue Yellow Futuristic Virtual Technology Blog Banner (1)-min](https://user-images.githubusercontent.com/122438666/212892915-70d4952a-6e93-4194-95e0-ccffd4c9fdeb.png)
+
+
 <h1 align="center">Hi 👋, I'm John Rico Tresvalles</h1>
 <h3 align="center">A passionate Web developer from Philippines</h3>
 
-
+style="width: 482px; height: 144.6px; margin: 45.3px 0px; width: 100%"
 ##  👩About Me
 
 
