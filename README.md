@@ -24,10 +24,13 @@
 
 <br/>
 <br/>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=blukissgithub&show_icons=true&locale=en&layout=compact" alt="blukissgithub" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=blukissgithub&show_icons=true&locale=en" alt="blukissgithub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blukissgithub&" alt="blukissgithub" /></p>
- 
+
+
 <b>Note:</b>This languages is only a metric that my public code consists of. Also, this doesn't reflect experience or skill level.
 <br/>
 <br/>
