@@ -24,9 +24,7 @@
 
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blukissgithub&show_icons=true&locale=en&layout=compact" alt="blukissgithub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blukissgithub&show_icons=true&locale=en" alt="blukissgithub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blukissgithub&" alt="blukissgithub" /></p>
  
