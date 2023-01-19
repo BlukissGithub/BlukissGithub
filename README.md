@@ -21,14 +21,17 @@
     
 
 ## 📊 My Github Stats
-
 <br/>
-<br/>
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=blukissgithub&show_icons=true&locale=en&layout=compact" alt="blukissgithub" /></p>
+<p align="center">
+          <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=react&preferLogin=false&Border=2DCDDF">    <img  alt="BlukissGithub's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BlukissGithub?cardType=github&theme=react&preferLogin=false&Border=2DCDDF" />  </a>  </a>
+<a><img alt="blukissgithub's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blukissgithub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1A0000&text_color=2DCDDF" /></a>
+ </p>
+<p align="center">
+   <a>
+<img title="Github Streaks" alt="JLCode streak" src="http://github-readme-streak-stats.herokuapp.com?user=blukissgithub&theme=react&border=2DCDDF&sideNums=2DCDDF"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=blukissgithub&show_icons=true&locale=en" alt="blukissgithub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blukissgithub&" alt="blukissgithub" /></p>
 
 
 <b>Note:</b>This languages is only a metric that my public code consists of. Also, this doesn't reflect experience or skill level.
