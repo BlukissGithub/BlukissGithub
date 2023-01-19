@@ -1,8 +1,8 @@
 ![Blue Yellow Futuristic Virtual Technology Blog Banner (1)-min](https://user-images.githubusercontent.com/122438666/212892915-70d4952a-6e93-4194-95e0-ccffd4c9fdeb.png)
 
 
-<h1 align="center">Hi 👋, I'm John Rico Tresvalles</h1>
-<h3 align="center">A passionate Web developer from Philippines</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+John+Rico+Tresvalles;A+passionate+Web+developer+from+PH)](https://git.io/typing-svg)
+
 
 ##  👩About Me
 
