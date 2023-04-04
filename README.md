@@ -8,8 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Frontend and Backend Web Development**
-
+- 🌱 I’m currently looking for a **job**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **jhyar171@gmail.com**
